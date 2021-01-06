@@ -1,6 +1,6 @@
 {
-  "short_name": "ASL BANK",
-  "name": "me-blog",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
