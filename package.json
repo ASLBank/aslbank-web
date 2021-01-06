@@ -1,6 +1,6 @@
 {
   "homepage": "http://www.aslbank.com",
-  "name": "ASL BANK Web Page",
+  "name": "me-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
