@@ -7,12 +7,13 @@ import logo from '../images/Logo-Nav.svg';
 class Navbar extends React.Component {
   render() {
     return (
+
       <div className="Navbar">
         <div className="container-fluid">
           <Link className="Navbar__brand" to="/">
             <img className="Navbar__brand-logo" src={logo} alt="Logo" />
-            <span className="font-weight-light">Aton</span>
-            <span className="font-weight-bold">Code</span>
+            <span className="font-weight-light">ASL</span>
+            <span className="font-weight-bold">Bank</span>
           </Link>
         </div>
       </div>

@@ -7,14 +7,14 @@
     
 }
 
-.Home_hero {
-  width: 100%;
-  padding: 3rem 0;
+.Home_hero{
+  
   background: url('/src/images/stars.svg'), #1B1B25;
   background-repeat: repeat;
   color: #ffffff;
   text-align: center;
-  margin-bottom: 1rem;
+  padding: auto;
+ 
   
 }
 
