@@ -8,7 +8,7 @@ export default class Home extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="jumbotron Home_hero">
+        <div className="Home_hero">
           <h1>Hi cyber 2021</h1>
         </div>
         
