@@ -14,8 +14,11 @@ export default class Home extends Component {
         
         <div className="Home">
 
+         <div className="Home__col">
+
          <section>
            <p>
+             
              <h2>Cyber Restaurants</h2><br/>
              <p>
              Old and new restaurants have to make cyber systems,
@@ -53,7 +56,8 @@ export default class Home extends Component {
            </p>
          </section>
 
-         
+         </div>
+
         </div>
       </React.Fragment> 
     );
