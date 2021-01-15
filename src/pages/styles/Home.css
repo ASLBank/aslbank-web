@@ -4,6 +4,8 @@
 
     display: flex;
     align-items: center;
+    justify-content: center;
+    align-items: center;
     
     
 }
@@ -23,14 +25,6 @@
 
 }
 
-.Home__col {
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 1rem;
-}
 
 @media screen and (max-width: 320px) {
   
@@ -49,7 +43,7 @@
     padding: 5rem;
   
   }
-  
+
 }
 
 @media screen and (min-width: 768px){
@@ -58,5 +52,17 @@
     padding: 7rem;
   
   }
-  
 }
+
+@media screen and (max-width: 768px){
+  .Home{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+  }
+}
+
+

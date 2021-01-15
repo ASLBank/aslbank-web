@@ -10,11 +10,10 @@ export default class Home extends Component {
       <React.Fragment>
         <div className="Home_hero">
           <h1>Hi cyber 2021</h1>
+          
         </div>
         
         <div className="Home">
-
-         <div className="Home__col">
 
          <section>
            <p>
@@ -56,9 +55,10 @@ export default class Home extends Component {
            </p>
          </section>
 
+      
+
          </div>
 
-        </div>
       </React.Fragment> 
     );
   }
