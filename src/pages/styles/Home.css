@@ -11,7 +11,7 @@
 .Home_hero{
   
   width: 100%;
-  padding: 5rem;
+  padding: 4rem;
 
   background: url('/src/images/stars.svg'), #1B1B25;
   background-repeat: repeat;
@@ -32,10 +32,23 @@
   margin-top: 1rem;
 }
 
-
-@media screen and (min-width: 300px) {
+@media screen and (max-width: 320px) {
   
+  .Home_hero{
+  
+    padding: 2rem;
+  
+  }
+  
+}
 
+@media screen and (min-width: 414px) {
+  
+  .Home_hero{
+  
+    padding: 5rem;
+  
+  }
   
 }
 
