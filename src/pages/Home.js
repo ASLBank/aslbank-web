@@ -9,7 +9,7 @@ export default class Home extends Component {
     return (
       <React.Fragment>
         <div className="Home_hero">
-          <h1>Hi cyber 2021</h1>
+          <h1>Hey, if you’are here then you're seeing the beginning of something great.</h1>
         </div>
         
         <div className="Home">
